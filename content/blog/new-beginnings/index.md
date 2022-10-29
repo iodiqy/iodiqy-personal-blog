@@ -6,6 +6,8 @@ description: This is a custom description for SEO and Open Graph purposes, rathe
 
 Far far away, behind the word mountains, there was Mico girl. And she was so beautiful and ke-ai.
 
+![keai girl](./mico.jpeg)
+
 ## On deer horse aboard tritely yikes and much
 
 The Big Oxmox advised her not to do so, because there were thousands of bad
