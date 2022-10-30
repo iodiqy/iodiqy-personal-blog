@@ -389,5 +389,5 @@ useEffect(() => {
 
 # References
 1. [Full Modern React Tutorial - The Net Ninja video playlist](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
-	1. Course files in [Github](https://github.com/iamshaunjp/Complete-React-Tutorial)
+2. Course files in [Github](https://github.com/iamshaunjp/Complete-React-Tutorial)
 
