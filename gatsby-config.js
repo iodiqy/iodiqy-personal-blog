@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Farkhad Dilman Blog`,
+    title: `Farkhad Dilman's Blog`,
     author: {
       name: `Farkhad Dilman`,
       summary: `This is my personal blog.`,
@@ -8,7 +8,7 @@ module.exports = {
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `iodiqy`,
+      instagram: `eddiexooo`,
     },
   },
   plugins: [
